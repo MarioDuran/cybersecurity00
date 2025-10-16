@@ -99,7 +99,7 @@ app.get('/', (req, res) => {
         <div class="error" id="errorMsg" aria-live="polite"></div>
 
         <div class="fake-terminal" id="terminal">
-$ /* breadcrumb: base64 works like a charm */ 
+$ /* breadcrumb: have you read between lines? */ 
         </div>
 
         <script>
